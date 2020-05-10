@@ -1,0 +1,8 @@
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\Core\bin\Debug\netstandard2.0\Core.deps.json
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\Core\bin\Debug\netstandard2.0\Core.dll
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\Core\bin\Debug\netstandard2.0\Core.pdb
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\Core\obj\Debug\netstandard2.0\Core.dll
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\Core\obj\Debug\netstandard2.0\Core.pdb

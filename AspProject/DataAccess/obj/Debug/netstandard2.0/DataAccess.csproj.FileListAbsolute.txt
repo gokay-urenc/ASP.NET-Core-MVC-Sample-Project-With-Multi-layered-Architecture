@@ -1,0 +1,13 @@
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\Applications\C#\Web Applications\MVC\Core MVC\CoreMVC_2_Project\AspProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
